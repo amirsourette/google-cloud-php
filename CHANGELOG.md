@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.156.1
+
+<details><summary>google/cloud-compute 0.3.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* **tests:** add more system tests for GCE ([#3974](https://www.github.com/googleapis/google-cloud-php/issues/3974)) ([d36f2c8](https://www.github.com/googleapis/google-cloud-php/commit/d36f2c8dd10d3458b5b4d56387c0044704437d7b))
+* **tests:** simplifies compute system test logic ([#4047](https://www.github.com/googleapis/google-cloud-php/issues/4047)) ([0df2ac3](https://www.github.com/googleapis/google-cloud-php/commit/0df2ac303c364db41693962a36c7b74d6ad245f6))
+
+</details>
+
+<details><summary>google/cloud-core 1.42.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* fix unit test failure on windows ([#4050](https://www.github.com/googleapis/google-cloud-php/issues/4050)) ([d88eef8](https://www.github.com/googleapis/google-cloud-php/commit/d88eef8fcab26de2d58ed48922f03b2011e4edb4))
+
+</details>
+
 ## 0.156.0
 
 <details><summary>google/cloud-bigquery-storage 1.1.0</summary>
